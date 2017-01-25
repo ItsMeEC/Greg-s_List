@@ -1,0 +1,128 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+
+}
+
+header {
+	top: 0;
+	left: 0;
+	right: 0;
+	padding: 10px;
+	background-color: #EEEEEE;
+	border-bottom: 1px #DDDDDD;
+	height: 50px;
+}
+
+h2 {
+	margin-left: 10px;
+	padding-bottom: 50px;
+}
+
+.right-nav {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	padding-top: 5px;
+}
+
+.nav-text {
+	font-size: 20px;
+	padding: 0 10px;
+	text-decoration: none;
+}
+
+.button-page a {
+	color: black;
+	font-size: 15px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+
+
+.logo h2 {
+	padding-bottom: 10px;
+}
+
+.search-section .mag-glass {
+	height: 30px;
+	margin-top: 10px;
+	border: 1px solid #DDDDDD;
+	border-radius: 3px;
+}
+
+.search-section {
+	margin-top: 70px;
+	margin-bottom: 40px;
+	margin-left: 50px;
+}
+
+.buttons {
+	display: inline-block;
+	font-size: 0;
+	margin-bottom: 30px;
+	margin-left: 50px;
+	border: 1px solid #DDDDDD;
+	border-radius: 3px;
+}
+
+.button-page {
+	font-size: 20px;
+	display: inline-block;
+	padding: 10px 15px;
+	border-radius: 4px;
+}
+
+.button-display {
+	font-size: 15px;
+	padding: 0 30px;
+	padding: 8px 25px;
+	border-left: 1px solid #DDDDDD;
+	border-right: 1px solid #DDDDDD;
+}
+
+.all-links {
+	margin-left: 50px;
+}
+
+.all-links a {
+	font-weight: bold;
+	padding-right: 5px;
+}
+
+.link1 .date1 {
+	color: #999;
+	padding-right: 5px;
+}
+
+.link1 .area1 {
+	color: #999;
+}
+
+.link2 .date2 {
+	color: #999;
+	padding-right: 5px;
+}
+
+.link2 .area2 {
+	color: #999;
+}
+
+.link3 .date3 {
+	color: #999;
+	padding-right: 5px;
+}
+
+.link3 .area3 {
+	color: #999;
+}
